@@ -1,0 +1,646 @@
+[{
+    "name": "AAB",
+    "def": "Avoidance of Antibiotic Treatment in Adults With Acute Bronchitis",
+    "doc": "DocF",
+    "page": 10,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "AAP",
+    "def": "Adults' Access to Preventive/Ambulatory Health Services",
+    "doc": "DocH",
+    "page": 3,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "ABA",
+    "def": "Adult BMI Assessment",
+    "doc": "DocB",
+    "page": 8,
+    "classes": ["admin", "hybrid", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "ABX",
+    "def": "Antibiotic Utilization",
+    "doc": "DocJ",
+    "page": 6,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "ADD",
+    "def": "Follow-Up Care for Children Prescribed ADHD Medication",
+    "doc": "DocD",
+    "page": 45,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "ADV",
+    "def": "Annual Dentist Visit",
+    "doc": "DocH",
+    "page": 7,
+    "classes": ["admin", "medicaid"]
+},
+{
+    "name": "AHU",
+    "def": "Acute Hospital Utilization",
+    "doc": "DocJ",
+    "page": 46,
+    "classes": ["admin", "medicare", "commercial"]
+},
+{
+    "name": "AIS",
+    "def": "Adult Immunization Status",
+    "doc": "DocK",
+    "page": 47,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "AMB",
+    "def": "Ambulatory Care",
+    "doc": "DocI",
+    "page": 28,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "AMM",
+    "def": "Antidepressant Medication Mangement",
+    "doc": "DocD",
+    "page": 40,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "AMR",
+    "def": "Asthma Medication Ratio",
+    "doc": "DocC",
+    "page": 18,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "APC",
+    "def": "Use of Multiple Concurrent Antipsychotics in Children and Adolescents",
+    "doc": "DocF",
+    "page": 19,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "APM",
+    "def": "Metabolic Monitoring for Children and Adolescents on Antipsychotics",
+    "doc": "DocD",
+    "page": 79,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "APP",
+    "def": "Use of First-Line Psychosocial Care for Children and Adolescents on Antipsychotics",
+    "doc": "DocH",
+    "page": 26,
+    "classes": ["admin","medicaid", "commercial"]
+},
+{
+    "name": "ART",
+    "def": "Disease-Modifying Anti-Rheumatic Drug Therapy for Rheumatoid Arthritis",
+    "doc": "DocD",
+    "page": 30,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "ASF",
+    "def": "Unhealthy Alcohol Use Screening and Follow-Up",
+    "doc": "DocK",
+    "page": 43,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "AWC",
+    "def": "Adolescent Well-Care Visits",
+    "doc": "DocI",
+    "page": 15,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "BCS",
+    "def": "Breast Cancer Screening",
+    "doc": "DocB",
+    "page": 29,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "BCR",
+    "def": "Board Certification",
+    "doc": "DocK",
+    "page": 2,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "CAP",
+    "def": "Children and Adolescents' Access to Primary Care Practitioners",
+    "doc": "DocH",
+    "page": 5,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "CBP",
+    "def": "Controlling High Blood Pressure",
+    "doc": "DocC",
+    "page": 24,
+    "classes": ["admin", "hybrid", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "CCC",
+    "def": "Children With Chronic Conditions",
+    "doc": "DocH",
+    "page": 34,
+    "classes": ["admin", "survey", "medicaid"]
+},
+{
+    "name": "CCS",
+    "def": "Cervical Cancer Screening",
+    "doc": "DocB",
+    "page": 33,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "CDC",
+    "def": "Comprehensive Diabetes Care",
+    "doc": "DocD",
+    "page": 2,
+    "classes": ["admin", "hybrid", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "CHL",
+    "def": "Chlamydia Screening in Women",
+    "doc": "DocB",
+    "page": 43,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "CIS",
+    "def": "Childhood Immunization Status",
+    "doc": "DocB",
+    "page": 16,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "COA",
+    "def": "Care for Older Adults",
+    "doc": "DocB",
+    "page": 46,
+    "classes": ["admin", "hybrid", "medicare"]
+},
+{
+    "name": "COL",
+    "def": "Colorectal Cancer Screening",
+    "doc": "DocB",
+    "page": 37,
+    "classes": ["admin", "hybrid", "medicare", "commercial"]
+},
+{
+    "name": "COU",
+    "def": "Risk of Continued Opioid Use",
+    "doc": "DocF",
+    "page": 43,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "CPA",
+    "def": "CAHPS Health Plan Survey 5.0H, Adult Version",
+    "doc": "DocH",
+    "page": 32,
+    "classes": ["admin", "survey", "medicaid", "commercial"]
+},
+{
+    "name": "CPC",
+    "def": "CAHPS Health Plan Survey 5.0H, Child Version",
+    "doc": "DocH",
+    "page": 33,
+    "classes": ["admin", "survey", "medicaid"]
+},
+{
+    "name": "CWP",
+    "def": "Appropriate Testing for Children With Pharyngitis",
+    "doc": "DocC",
+    "page": 2,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "DAE",
+    "def": "Use of High-Risk Medications in the Elderly",
+    "doc": "DocF",
+    "page": 29,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "DDE",
+    "def": "Potentially Harmful Drug-Disease Interactions in the Elderly",
+    "doc": "DocF",
+    "page": 23,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "DMS",
+    "def": "Utilization of the PHQ-9 to Monitor Depression Symptoms for Adolescents and Adults",
+    "doc": "DocK",
+    "page": 35,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "DRR",
+    "def": "Depression Remission or Response for Adolescents and Adults",
+    "doc": "DocK",
+    "page": 39,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "DSF",
+    "def": "Depression Screening and Follow-Up for Adolescents and Adults",
+    "doc": "DocK",
+    "page": 29,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "EBS",
+    "def": "Enrollment by State",
+    "doc": "DocK",
+    "page": 10,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "EDU",
+    "def": "Emergency Department Utilization",
+    "doc": "DocJ",
+    "page": 57,
+    "classes": ["admin", "medicare", "commercial"]
+},
+{
+    "name": "ENP",
+    "def": "Enrollment by Product Line",
+    "doc": "DocK",
+    "page": 6,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "FMC",
+    "def": "Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions",
+    "doc": "DocE",
+    "page": 17,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "FRM",
+    "def": "Fall Risk Management",
+    "doc": "DocG",
+    "page": 3,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "FSP",
+    "def": "Frequency of Selected Procedures",
+    "doc": "DocI",
+    "page": 19,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "FUA",
+    "def": "Follow-Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence",
+    "doc": "DocD",
+    "page": 58,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "FUH",
+    "def": "Follow-Up After Hospitilization for Mental Illness",
+    "doc": "DocD",
+    "page": 50,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "FUM",
+    "def": "Follow-Up After Emergency Department Visit for Mental Illness",
+    "doc": "DocD",
+    "page": 54,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "FVA",
+    "def": "Flu Vaccinations for Adults Ages 18-64",
+    "doc": "DocG",
+    "page": 9,
+    "classes": ["admin", "survey", "medicaid", "commercial"]
+},
+{
+    "name": "FVO",
+    "def": "Flu Vaccinations for Adults Ages 65 and Older",
+    "doc": "DocG",
+    "page": 10,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "HAI",
+    "def": "Standardized Healthcare-Associated Infection Ratio",
+    "doc": "DocJ",
+    "page": 16,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "HFS",
+    "def": "Hospitalization Following Discharge from a Skilled Nursing Facility",
+    "doc": "DocJ",
+    "page": 38,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "HOS",
+    "def": "Medicare Health Outcomes Survey",
+    "doc": "DocG",
+    "page": 2,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "HPC",
+    "def": "Hospitalization for Potentially, Preventable Complications",
+    "doc": "DocJ",
+    "page": 63,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "IAD",
+    "def": "Identification of Alcohol and Other Drug Services",
+    "doc": "DocI",
+    "page": 37,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "IET",
+    "def": "Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment",
+    "doc": "DocH",
+    "page": 9,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "IMA",
+    "def": "Immunizations for Adolescents",
+    "doc": "DocB",
+    "page": 22,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "IPU",
+    "def": "Inpatient Utilization General Hospital/Acute Care",
+    "doc": "DocI",
+    "page": 32,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "LBP",
+    "def": "Use of Imaging Studies for Low Back Pain",
+    "doc": "DocF",
+    "page": 15,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "LDM",
+    "def": "Language Diversity of Membership",
+    "doc": "DocK",
+    "page": 11,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "LSC",
+    "def": "Lead Screening in Children",
+    "doc": "DocB",
+    "page": 26,
+    "classes": ["admin", "hybrid", "medicaid"]
+},
+{
+    "name": "MMA",
+    "def": "Medication Management for People With Asthma",
+    "doc": "DocC",
+    "page": 13,
+    "classes": ["admin","medicaid", "commercial"]
+},
+{
+    "name": "MPM",
+    "def": "Annual Monitoring for Patients on Persistent Medications",
+    "doc": "DocE",
+    "page": 2,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "MPT",
+    "def": "Mental Health Utilization",
+    "doc": "DocJ",
+    "page": 1,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "MRP",
+    "def": "Medication Reconciliation Post-Discharge",
+    "doc": "DocE",
+    "page": 6,
+    "classes": ["admin", "hybrid", "medicare"]
+},
+{
+    "name": "MSC",
+    "def": "Medical Assistance With Smoking and Tobacco Use Cessation",
+    "doc": "DocG",
+    "page": 11,
+    "classes": ["admin", "survey", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "MUI",
+    "def": "Management of Urinary Incontinence in Older Adults",
+    "doc": "DocG",
+    "page": 4,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "NCS",
+    "def": "Non-Recommended Cervical Cancer Screening in Adolescent Females",
+    "doc": "DocF",
+    "page": 2,
+    "classes": ["admin", "commercial", "medicaid"]
+},
+{
+    "name": "OMW",
+    "def": "Osteoporosis Management in Women Who Had a Fracture",
+    "doc": "DocD",
+    "page": 34,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "OTO",
+    "def": "Osteoporosis Testing in Older Women",
+    "doc": "DocG",
+    "page": 5,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "PAO",
+    "def": "Physical Activity in Older Adults",
+    "doc": "DocG",
+    "page": 6,
+    "classes": ["admin", "survey", "medicare"]
+
+},
+{
+    "name": "PBH",
+    "def": "Persistence of Beta-Blocker Treatment After a Heart Attack",
+    "doc": "DocC",
+    "page": 31,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "PCE",
+    "def": "Pharmacotherapy Management of COPD Exacerbation",
+    "doc": "DocC",
+    "page": 9,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "PCR",
+    "def": "Plan All-Cause Readmissions",
+    "doc": "DocJ",
+    "page": 26,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "PNU",
+    "def": "Pneumococcal Vaccination Status for Older Adults",
+    "doc": "DocG",
+    "page": 12,
+    "classes": ["admin", "survey", "medicare"]
+},
+{
+    "name": "PPC",
+    "def": "Prenatal and Postpartum Care",
+    "doc": "DocH",
+    "page": 18,
+    "classes": ["admin", "hybrid","medicaid", "commercial"]
+},
+{
+    "name": "PRS",
+    "def": "Prenatal Immunization Status",
+    "doc": "DocK",
+    "page": 52,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "PSA",
+    "def": "Non-Recommended PSA-Based Screening in Older Men",
+    "doc": "DocF",
+    "page": 4,
+    "classes": ["admin", "medicare"]
+},
+{
+    "name": "RDM",
+    "def": "Race/Ethnicity Diversity of Membership",
+    "doc": "DocK",
+    "page": 14,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "SAA",
+    "def": "Adherence to Antipsychotic Medications for Individuals With Schizophrenia",
+    "doc": "DocD",
+    "page": 74,
+    "classes": ["admin", "medicaid"]
+},
+{
+    "name": "SMC",
+    "def": "Diabetes Monitoring for People With Diabetes and Schizophrenia",
+    "doc": "DocD",
+    "page": 71,
+    "classes": ["admin", "medicaid"]
+},
+{
+    "name": "SMD",
+    "def": "Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia",
+    "doc": "DocD",
+    "page": 66,
+    "classes": ["admin", "medicaid"]
+},
+{
+    "name": "SPC",
+    "def": "Use of Spirometry Testing in the Assessment and Diagnosis of COPD",
+    "doc": "DocC",
+    "page": 36,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "SPD",
+    "def": "Statin Therapy for Patients With Cardiovascular Disease",
+    "doc": "DocD",
+    "page": 21,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "SPR",
+    "def": "Statin Therapy for Patients With Diabetes",
+    "doc": "DocC",
+    "page": 6,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "SSD",
+    "def": "Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications",
+    "doc": "DocD",
+    "page": 61,
+    "classes": ["admin", "medicaid"]
+},
+{
+    "name": "TLM",
+    "def": "Total Membership",
+    "doc": "DocK",
+    "page": 19,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "TRC",
+    "def": "Transistions of Care",
+    "doc": "DocE",
+    "page": 10,
+    "classes": ["admin", "hybrid", "medicare"]
+},
+{
+    "name": "UOD",
+    "def": "Use of Opioids at High Dosage",
+    "doc": "DocF",
+    "page": 34,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "UOP",
+    "def": "Use of Opioids From Multiple Providers",
+    "doc": "DocF",
+    "page": 39,
+    "classes": ["admin", "medicare", "medicaid", "commercial"]
+},
+{
+    "name": "URI",
+    "def": "Appropriate Treatment for Children With Upper Respiratory Infection",
+    "doc": "DocF",
+    "page": 6,
+    "classes": ["admin", "medicaid", "commercial"]
+},
+{
+    "name": "W15",
+    "def": "Well-Child Visits in the First 15 Months of Life",
+    "doc": "DocI",
+    "page": 7,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "W34",
+    "def": "Well-Child Visits in the Third, Fourth, Fifth and Sixth Years of Life",
+    "doc": "DocI",
+    "page": 11,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+},
+{
+    "name": "WCC",
+    "def": "Weight Assessment and Counseling for Nutrition and Physical Activity for Children/Adolescents",
+    "doc": "DocB",
+    "page": 11,
+    "classes": ["admin", "hybrid", "medicaid", "commercial"]
+}
+]
