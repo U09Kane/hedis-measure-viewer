@@ -1,5 +1,5 @@
-from pathlib import Path
 import os
+from pathlib import Path
 
 from flask import Flask, send_file, send_from_directory
 from flask_cors import CORS
@@ -34,6 +34,6 @@ def send_pdf(filename):
     return response, 200
 
 if __name__ == '__main__':
-    app.run(threaded=True)
+    app.run(host='0.0.0.0', threaded=True)
 
 

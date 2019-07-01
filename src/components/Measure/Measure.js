@@ -6,7 +6,7 @@ const measure = (props) => {
 
     return (
             <div className="measure container" onClick={
-                (e) => window.open(`http://127.0.0.1:5000/file/${props.document}#page=${props.page}`, '_blank')
+                (e) => window.open(`http://192.168.68.104:5000/file/${props.document}#page=${props.page}`, '_blank')
                 }>
                 <div className="row">
                     <h3 className="measure-title col-12">

@@ -15,7 +15,7 @@ class Layout extends Component {
 
     handleEnter(e) {
         if (e.key === 'Enter') {
-            window.open(`http://127.0.0.1:5000/file/${this.state.currentDoc}`)
+            window.open(`http://192.168.68.104:5000/file/${this.state.currentDoc}`)
         }
     }
 
